@@ -61,6 +61,10 @@ header {
   color: black !important;
 }
 
+.sticky .menu_area #nav .nav-link:hover {
+  color: #ff42a8 !important;
+}
+
 .slideInDown {
   -webkit-animation-name: slideInDown;
   animation-name: slideInDown;
