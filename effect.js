@@ -10,6 +10,7 @@
             $('.header_area').addClass('sticky slideInDown');
         } else {
             $('.header_area').removeClass('sticky slideInDown');
+
         }
     });
 
